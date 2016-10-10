@@ -1,5 +1,7 @@
 #Java Koans [![Build Status](https://travis-ci.org/matyb/java-koans.png?branch=master)](https://travis-ci.org/matyb/java-koans)
 
+This is the repo for my attempt at these java koans
+
 Running Instructions:
 =====================
 * Download and unarchive the contents of the most recent java-koans in development from:
